@@ -2,7 +2,7 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import { Card, CardContent, CardMedia, Typography, Box } from '@mui/material';
 
-// Sample data (replace this with actual data fetching)
+
 const shoeData = {
   '1': {
     image: '/images/s1.png',
